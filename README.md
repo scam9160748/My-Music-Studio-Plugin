@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-28T03:45:02-06:00
+modified: 2020-12-28T03:46:22-06:00
 ---
 
 # My-Music-Studio-Plugin
@@ -7,7 +7,8 @@ modified: 2020-12-28T03:45:02-06:00
 LG Phone Plugin For Numark Party Mixer
 - [ ] Samples
 - 
-- [ ] Tracks
+- [Tracks ] 
+- http://edjing.com/mixes/BkUjw
 - 
 - What a way to start eh? 
 - [ ] FX
