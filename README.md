@@ -1,9 +1,8 @@
 ---
-modified: 2020-12-28T03:49:43-06:00
-type: Checklist
+modified: 2021-01-18T05:13:15-06:00
 ---
 
-# My-Music-Studio-Plugin
+# My-Green Screen & Music-Studio-Plugin
 
 LG Phone Plugin For Numark Party Mixer
 - [ ] Samples
@@ -12,4 +11,10 @@ LG Phone Plugin For Numark Party Mixer
 - http://edjing.com/mixes/BkUjw
 - 
 - What a way to start eh? 
-- [ ] FX
+- [ ] FX Software Green Screening
+- Pond5
+- CS5 
+- Camera 
+- Lighting
+- 
+-
